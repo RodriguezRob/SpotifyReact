@@ -8,7 +8,6 @@ const CLIENT_SECRET = "d192359af1484c2d94b356319a09a7ea";
 
 const spacing = {
   marginTop: '1rem',
-  width: '50%',
   justifySelf: 'center',
   border: '2px solid grey',
   borderRadius: '.75rem'
@@ -22,7 +21,7 @@ const cardStyling = {
   background: 'linear-gradient(0deg, rgba(252,252,252,1) 0%, rgba(0,0,0,0.821187850140056) 49%)'
 }
 const heading = {
-  justifySelf: 'center',
+  textAlign: 'center',
 
 }
 
@@ -66,7 +65,7 @@ function App() {
 
   return (
     <div className="App">
-      <Container style={{display: 'grid'}}>
+      <Container>
       <h1 style={heading}>Spotify Album Search Tool</h1>
           <InputGroup style={spacing} className="mb-3" size="lg">
             <FormControl
