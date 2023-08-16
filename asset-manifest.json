@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RodriguezRob/SpotifyReact/static/css/main.d20202a4.css",
+    "main.js": "/RodriguezRob/SpotifyReact/static/js/main.6eecd6e6.js",
+    "static/js/787.abcb3265.chunk.js": "/RodriguezRob/SpotifyReact/static/js/787.abcb3265.chunk.js",
+    "index.html": "/RodriguezRob/SpotifyReact/index.html",
+    "main.d20202a4.css.map": "/RodriguezRob/SpotifyReact/static/css/main.d20202a4.css.map",
+    "main.6eecd6e6.js.map": "/RodriguezRob/SpotifyReact/static/js/main.6eecd6e6.js.map",
+    "787.abcb3265.chunk.js.map": "/RodriguezRob/SpotifyReact/static/js/787.abcb3265.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d20202a4.css",
+    "static/js/main.6eecd6e6.js"
+  ]
+}
